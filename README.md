@@ -1,2 +1,2 @@
 # Croptails
-Game dev mock up practice
+2D Game dev mock up practice
